@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="576056a7-67c1-4533-b893-2cf151194640" name="Default Changelist" comment="" />
+    <list default="true" id="576056a7-67c1-4533-b893-2cf151194640" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/项目进度.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/项目进度.txt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/项目进度.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
+              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -452,7 +454,7 @@
       <workItem from="1569728230318" duration="1587000" />
       <workItem from="1569736781162" duration="545000" />
       <workItem from="1569746308870" duration="647000" />
-      <workItem from="1569747342683" duration="45000" />
+      <workItem from="1569747342683" duration="289000" />
     </task>
     <task id="LOCAL-00001" summary="ssm06-crud-step03">
       <created>1569736840751</created>
@@ -489,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569746320423</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ssm06-crud-step03">
+      <created>1569747444865</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569747444865</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -525,7 +534,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44513000" />
+    <option name="totallyTimeSpent" value="44757000" />
   </component>
   <component name="TodoView" selected-index="5">
     <todo-panel id="selected-file">
@@ -885,7 +894,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/项目进度.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
